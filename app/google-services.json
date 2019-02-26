@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1740703025",
+    "firebase_url": "https://fir-storage-dbf9e.firebaseio.com",
+    "project_id": "fir-storage-dbf9e",
+    "storage_bucket": "fir-storage-dbf9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1740703025:android:9a8375b2ff884341",
+        "android_client_info": {
+          "package_name": "kr.co.teada.ex87firebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1740703025-e3i4chg7ounka519nc6sapo6ki6ognru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0is62QZCkBuUvFsANTfo3PjYKwjeRicA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
